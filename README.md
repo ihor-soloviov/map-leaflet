@@ -20,25 +20,21 @@
    ```shell
    git clone https://github.com/your-username/your-project.git
    Перейдіть в папку проекту:
-   ```shell
-
-```shell
 
 cd your-project
-```shell
 
 Встановіть залежності:
 
-```shell
+
 
 npm install
-```shell
+
 
 Запустіть проект:
 
-```shell
+
 
     npm start
-    ```shell
+
 
     Проект буде доступний за адресою http://localhost:3000.
